@@ -1,3 +1,2 @@
 example
-example_fpic.asm
-example_no_fpic.asm
+*.asm

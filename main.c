@@ -1,4 +1,3 @@
-// example.c
 #include <stdio.h>
 
 int		global_var = 42;
